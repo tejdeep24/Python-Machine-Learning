@@ -1,6 +1,6 @@
 # Python-Machine-Learning
 
-1. Introduction to Machine Learning
+1. Machine Learning Basics
 2. Supervised Learning – I
 3. Dimensionality Reduction
 4. Supervised Learning - II
